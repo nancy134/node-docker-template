@@ -11,12 +11,13 @@ git status (to see what files change)
 git add README.md (to commit the file README.md)
 git add . (to commit all files)
 git commit -m "A commit comment"
-git push --set-upstream origin test-branch
+git push --set-upstream origin test-branch (after this 'git push' should work for future pushes)
 ```
 # Creating a pull request
 ```
 Go to https://github.com/nancy134/realty-app
 Select "Pull requests"
 Select "Compare & pull request"
+Select "Create pull request"
 ```
 
